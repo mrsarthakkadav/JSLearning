@@ -1,0 +1,30 @@
+console.log("=======Assingment Number 1=========");
+console.log("=====Step 1======");
+console.log("======Number Data Type=======");
+var pinCode=441052;
+console.log("PIN:",pinCode,"type:",typeof pinCode);
+var mobileNumber=8605528560;
+console.log("Mobile Number:",mobileNumber,"type:",typeof mobileNumber);
+var telephoneNum = 7276721833;
+console.log("Telephone Number:",telephoneNum,"type:",typeof telephoneNum);
+console.log("======String Data Type=======");
+var firstName='Sarthak';
+console.log("First Name:",firstName,"type:",typeof firstName);
+var lastName='Kadav';
+console.log("Last Name:",lastName,"type:",typeof lastName);
+var address='Pune';
+console.log("City Name:",address,"type:",typeof address);
+console.log("======Boolean Data Type=======");
+var isMarried = false;
+console.log("Married:",isMarried,"type:",typeof isMarried);
+var isHandicap = false;
+console.log("Handicap:",isHandicap,"type:",typeof isHandicap);
+var isBelongBackwardClass= true;
+console.log("Backword class:",isBelongBackwardClass,"type:",typeof isBelongBackwardClass);
+console.log("=====Step 2======");
+console.log("========Difference between null and undefined");
+console.log();
+console.log("null :- null is a empty value and it is primitive Data type");
+
+console.log("undefined :- In undefined value does not exits its a global objects.");
+
