@@ -9,5 +9,3 @@ for (let index = 0; index < arrayNumbers.length; index=index+2)
 }
 console.log(`============ 2nd program============`);
 
-
-console.log(`Sum of the element of array :- ${sum}`);
